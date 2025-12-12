@@ -1,0 +1,59 @@
+================================================================================
+CUSTOMER SEGMENTATION ANALYSIS REPORT
+================================================================================
+
+PROJECT OVERVIEW
+----------------------------------------
+Dataset: Nigerian E-commerce Sales Dataset
+Total customers analyzed: 3928
+Optimal number of clusters: 6
+Overall silhouette score: 0.5378
+
+CLUSTER SUMMARY
+----------------------------------------
+
+Segment 0: VIP_Customers
+  Size: 1149 customers (29.3%)
+  Avg Recency: 74.4 days
+  Avg Frequency: 5.26
+  Avg Monetary: $866021.77
+  Avg Loyalty Score: 0.151
+
+Segment 1: High_Value
+  Size: 2571 customers (65.5%)
+  Avg Recency: 17.3 days
+  Avg Frequency: 1.99
+  Avg Monetary: $380735.24
+  Avg Loyalty Score: 0.266
+
+Segment 2: At_Risk
+  Size: 111 customers (2.8%)
+  Avg Recency: 49.5 days
+  Avg Frequency: 3.34
+  Avg Monetary: $13677219.29
+  Avg Loyalty Score: 0.249
+
+Segment 3: Frequent_Buyers
+  Size: 88 customers (2.2%)
+  Avg Recency: 77.6 days
+  Avg Frequency: 44.57
+  Avg Monetary: $6099576.07
+  Avg Loyalty Score: 0.491
+
+Segment 4: New_Customers
+  Size: 1 customers (0.0%)
+  Avg Recency: 31.0 days
+  Avg Frequency: 1.00
+  Avg Monetary: $75999900.00
+  Avg Loyalty Score: 0.522
+
+Segment 5: Segment_5.0
+  Size: 8 customers (0.2%)
+  Avg Recency: 66.4 days
+  Avg Frequency: 1.00
+  Avg Monetary: $16105500.00
+  Avg Loyalty Score: 0.196
+
+================================================================================
+END OF REPORT
+================================================================================
